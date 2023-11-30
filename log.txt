@@ -1,2 +1,3 @@
 0615. 🐛 fix: correct typo in registration form
 0078. ♻️ chore: update .gitignore
+0212. 🎨 style: standardize quote style
