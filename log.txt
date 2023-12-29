@@ -6,3 +6,4 @@
 0686. 🎨 style: standardize quote style
 0407. 🚀 perf: cache repeated calculations
 0542. 🔧 refactor: organize models into subfolders
+0408. ♻️ chore: add GitHub actions badge
