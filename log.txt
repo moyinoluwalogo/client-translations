@@ -5,3 +5,4 @@
 0110. 🐛 fix: prevent crash on empty input
 0715. ✨ feat: create admin dashboard
 0646. ✅ test: test user registration edge cases
+0054. ♻️ chore: update .gitignore
