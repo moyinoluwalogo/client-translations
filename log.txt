@@ -12,3 +12,4 @@
 0390. 🎨 style: standardize quote style
 0423. ✅ test: mock database connection in test suite
 0647. 🐛 fix: prevent crash on empty input
+0278. 🔧 refactor: clean up auth middleware
