@@ -41,3 +41,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0818. 🔧 refactor: remove redundant code blocks
 0462. ♻️ chore: update .gitignore
+0323. 📚 docs: clarify environment setup
