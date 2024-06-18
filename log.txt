@@ -51,3 +51,4 @@
 0760. 🐛 fix: resolve issue with date parsing
 0569. 📚 docs: document token refresh logic
 0072. 🚀 perf: optimize database query for quiz results
+0828. ♻️ chore: add GitHub actions badge
