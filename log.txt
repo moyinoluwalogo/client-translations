@@ -63,3 +63,4 @@
 0729. 🔧 refactor: refactor quiz grading logic
 0875. ✅ test: increase coverage on auth module
 0196. ♻️ chore: bump dependencies
+0330. ✅ test: test user registration edge cases
