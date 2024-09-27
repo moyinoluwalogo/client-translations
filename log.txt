@@ -77,3 +77,4 @@
 0518. ✨ feat: support email verification
 0900. 🐛 fix: handle 500 error in quiz API
 0846. ✨ feat: implement quiz timer feature
+0264. 🚀 perf: optimize database query for quiz results
