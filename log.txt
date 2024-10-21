@@ -84,3 +84,4 @@
 0052. 🎨 style: standardize quote style
 0939. 📚 docs: update README with setup steps
 0299. 🐛 fix: resolve issue with date parsing
+0277. 🎨 style: standardize quote style
