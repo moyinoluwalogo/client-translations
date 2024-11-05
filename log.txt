@@ -88,3 +88,4 @@
 0506. 🐛 fix: handle 500 error in quiz API
 0084. 🐛 fix: handle 500 error in quiz API
 0049. 🐛 fix: handle 500 error in quiz API
+0651. ✨ feat: enable dark mode toggle
