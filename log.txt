@@ -86,3 +86,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0588. 🔧 refactor: organize models into subfolders
 0233. 🚀 perf: lazy-load components
+0580. ♻️ chore: bump dependencies
