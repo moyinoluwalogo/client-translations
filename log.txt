@@ -101,3 +101,4 @@
 0979. 🎨 style: standardize quote style
 0143. ✨ feat: implement quiz timer feature
 0275. 🎨 style: standardize quote style
+0977. 🔧 refactor: organize models into subfolders
