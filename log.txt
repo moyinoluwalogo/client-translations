@@ -103,3 +103,4 @@
 0275. 🎨 style: standardize quote style
 0977. 🔧 refactor: organize models into subfolders
 0555. ✨ feat: create admin dashboard
+0464. 🎨 style: remove trailing whitespace
