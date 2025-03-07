@@ -113,3 +113,4 @@
 0556. ✨ feat: support email verification
 0934. ✨ feat: support email verification
 0185. 📚 docs: write FAQ section
+0090. ✅ test: increase coverage on auth module
