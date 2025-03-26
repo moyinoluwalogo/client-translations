@@ -116,3 +116,4 @@
 0090. ✅ test: increase coverage on auth module
 0212. 🎨 style: standardize quote style
 0209. ✨ feat: implement quiz timer feature
+0965. 🎨 style: reformat files with black
