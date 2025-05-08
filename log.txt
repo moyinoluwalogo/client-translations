@@ -132,3 +132,4 @@
 0627. 📚 docs: document token refresh logic
 0499. 🎨 style: reformat files with black
 0337. 📚 docs: document token refresh logic
+0542. 🔧 refactor: organize models into subfolders
