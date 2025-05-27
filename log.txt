@@ -137,3 +137,4 @@
 0424. ✨ feat: add user authentication
 0694. 🎨 style: rename variables for clarity
 0039. ✅ test: add integration test for /submit endpoint
+0292. 📚 docs: clarify environment setup
