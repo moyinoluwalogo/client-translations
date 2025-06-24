@@ -144,3 +144,4 @@
 0451. ✨ feat: support email verification
 0961. 📚 docs: add API usage examples
 0318. 🔧 refactor: refactor quiz grading logic
+0492. 🎨 style: remove trailing whitespace
