@@ -145,3 +145,4 @@
 0112. ✨ feat: enable dark mode toggle
 0373. 📚 docs: document token refresh logic
 0861. ♻️ chore: clean up unused files
+0724. ✅ test: mock database connection in test suite
