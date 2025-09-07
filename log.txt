@@ -165,3 +165,4 @@
 0490. ✨ feat: create admin dashboard
 0840. 🔧 refactor: refactor quiz grading logic
 0701. 🔧 refactor: clean up auth middleware
+0731. 🎨 style: standardize quote style
