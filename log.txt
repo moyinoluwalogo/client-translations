@@ -167,3 +167,4 @@
 0740. 🐛 fix: resolve issue with date parsing
 0937. 🐛 fix: handle 500 error in quiz API
 0175. 📚 docs: add API usage examples
+0808. 🚀 perf: optimize database query for quiz results
