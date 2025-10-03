@@ -173,3 +173,4 @@
 0492. 🎨 style: remove trailing whitespace
 0812. 🔧 refactor: refactor quiz grading logic
 0536. ✨ feat: add user authentication
+0828. ♻️ chore: add GitHub actions badge
