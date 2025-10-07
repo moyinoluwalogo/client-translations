@@ -175,3 +175,4 @@
 0536. ✨ feat: add user authentication
 0828. ♻️ chore: add GitHub actions badge
 0269. ✅ test: test user registration edge cases
+0739. 🎨 style: remove trailing whitespace
