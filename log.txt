@@ -189,3 +189,4 @@
 0029. 🚀 perf: lazy-load components
 0597. 🚀 perf: cache repeated calculations
 0733. 🐛 fix: fix null pointer exception on login
+0475. 🔧 refactor: clean up auth middleware
