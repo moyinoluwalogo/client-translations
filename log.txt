@@ -187,3 +187,4 @@
 0449. ✅ test: add unit test for quiz service
 0666. 🐛 fix: fix broken CSS in mobile view
 0748. 🚀 perf: optimize database query for quiz results
+0175. 📚 docs: add API usage examples
